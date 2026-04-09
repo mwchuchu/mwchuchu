@@ -36,8 +36,8 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: **  
-- 📧 Email: *your-email-here*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/maawaz/*  
+- 📧 Email: *maawazali111@gmail.com*  
 
 ---
 
