@@ -3,9 +3,8 @@
 
 ---
 <p align="center">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mwchuchu&show_icons=true&theme=tokyonight)
+  <img src="https://streak-stats.demolab.com?user=mwchuchu&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 ## 🧠 About Me
 - 🎓 BS Computer Science Student at Bahria University Islamabad  
