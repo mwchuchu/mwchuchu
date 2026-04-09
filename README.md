@@ -2,7 +2,11 @@
 <h3 align="center">AI & Machine Learning Enthusiast | NLP | Computer Vision</h3>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mwchuchu&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 ## 🧠 About Me
 - 🎓 BS Computer Science Student at Bahria University Islamabad  
 - 🤖 Passionate about AI, Machine Learning & NLP  
