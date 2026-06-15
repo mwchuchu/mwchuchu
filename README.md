@@ -14,16 +14,6 @@
 - ⚡ Love building real-world intelligent systems  
 
 ---
-
-## 🚀 Projects
-- 📩 **Spam Detection System** – LSTM, Bi-LSTM, Flask  
-- 🦴 **Knee X-ray Analysis** – ResNet (Medical Imaging)  
-- 📊 **E-commerce Forecasting** – ML models for predictions  
-- ⚖️ **Legal Clause Analyzer (RAG)** – FAISS + Gemini  
-- 🎮 **AI Skill Game** – Quiz generation using LLMs  
-
----
-
 ## ⚙️ Tech Arsenal
 
 ### 🧑‍💻 Languages
